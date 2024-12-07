@@ -3,12 +3,12 @@ import { FaRegBuilding } from "react-icons/fa";
 import { MdOutlineDoorSliding } from "react-icons/md";
 import "../App.css";
 
-const BlockA = () => {
+const BlockC = () => {
   return (
     <div className="pages-blocka pb-96 flex flex-col justify-center items-center">
       <div className="blockA transition ease-in-out delay-150 mb-24 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 border-red-800 gap-4 rounded-2xl items-center flex flex-row border p-6 w-fit m-2 text-center">
         <FaRegBuilding size={25} />
-        <p className="text">Block-A</p>
+        <p className="text">Block-C</p>
       </div>
 
 
@@ -17,7 +17,7 @@ const BlockA = () => {
           {/* Top Section: Icon and Text */}
           <div className="name flex flex-row items-center h-2/3">
             <MdOutlineDoorSliding size={25} />
-            <p className="pl-6">F 102</p>
+            <p className="pl-6">C 102</p>
           </div>
           {/* Bottom Section: Red Background */}
 
@@ -30,7 +30,7 @@ const BlockA = () => {
           {/* Top Section: Icon and Text */}
           <div className="name flex flex-row items-center h-2/3">
             <MdOutlineDoorSliding size={25} />
-            <p className="pl-6">F 102</p>
+            <p className="pl-6">C 102</p>
           </div>
           {/* Bottom Section: Red Background */}
 
@@ -43,7 +43,7 @@ const BlockA = () => {
           {/* Top Section: Icon and Text */}
           <div className="name flex flex-row items-center h-2/3">
             <MdOutlineDoorSliding size={25} />
-            <p className="pl-6">F 102</p>
+            <p className="pl-6">C 102</p>
           </div>
           {/* Bottom Section: Red Background */}
 
@@ -56,7 +56,7 @@ const BlockA = () => {
           {/* Top Section: Icon and Text */}
           <div className="name flex flex-row items-center h-2/3">
             <MdOutlineDoorSliding size={25} />
-            <p className="pl-6">F 102</p>
+            <p className="pl-6">C 102</p>
           </div>
           {/* Bottom Section: Red Background */}
 
@@ -70,4 +70,4 @@ const BlockA = () => {
   );
 };
 
-export default BlockA;
+export default BlockC;

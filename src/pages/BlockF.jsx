@@ -3,12 +3,12 @@ import { FaRegBuilding } from "react-icons/fa";
 import { MdOutlineDoorSliding } from "react-icons/md";
 import "../App.css";
 
-const BlockA = () => {
+const BlockF = () => {
   return (
     <div className="pages-blocka pb-96 flex flex-col justify-center items-center">
       <div className="blockA transition ease-in-out delay-150 mb-24 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 border-red-800 gap-4 rounded-2xl items-center flex flex-row border p-6 w-fit m-2 text-center">
         <FaRegBuilding size={25} />
-        <p className="text">Block-A</p>
+        <p className="text">Block-F</p>
       </div>
 
 
@@ -70,4 +70,4 @@ const BlockA = () => {
   );
 };
 
-export default BlockA;
+export default BlockF;

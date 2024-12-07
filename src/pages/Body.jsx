@@ -17,23 +17,23 @@ const Body = () => {
             <HiOutlineBuildingOffice2 />   
             <Link to="/BlockA" className="text">Block-A</Link>
         </div>
-        <div className="blockB border-red-800 border transition ease-in-out delay-150   hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 p-6 rounded-2xl  w-fit m-2 text-center flex flex-row items-center gap-4">
+        <div className="blockB border-red-800 border transition ease-in-out delay-150  cursor-pointer hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 p-6 rounded-2xl  w-fit m-2 text-center flex flex-row items-center gap-4">
             <HiOutlineBuildingOffice2 />
             <p className="text">Block-B</p>
         </div>
-        <div className="blockC border-red-800 border transition ease-in-out delay-150   hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 p-6 rounded-2xl w-fit m-2 text-center flex flex-row items-center gap-4">
+        <div className="blockC border-red-800 border transition ease-in-out delay-150  cursor-pointer hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 p-6 rounded-2xl w-fit m-2 text-center flex flex-row items-center gap-4">
             <HiOutlineBuildingOffice2 />
             <p className="text">Block-C</p>
         </div>
-        <div className="blockD blocks border-red-800 transition ease-in-out delay-150   hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 border rounded-2xl p-6 w-fit m-2 text-center    flex flex-row items-center gap-4">
+        <div className="blockD blocks border-red-800 transition ease-in-out delay-150  cursor-pointer hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 border rounded-2xl p-6 w-fit m-2 text-center    flex flex-row items-center gap-4">
             <HiOutlineBuildingOffice2 />
             <p className="text">Block-D</p>
         </div>
-        <div className="blockE blocks border-red-800 transition ease-in-out delay-150   hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 border  rounded-2xl p-6 w-fit m-2 text-center   flex flex-row items-center gap-4">
+        <div className="blockE blocks border-red-800 transition ease-in-out delay-150 cursor-pointer hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 border  rounded-2xl p-6 w-fit m-2 text-center   flex flex-row items-center gap-4">
             <HiOutlineBuildingOffice2 />
             <p className="text">Block-E</p>
         </div>
-        <div className="blockF blocks border-red-800 transition ease-in-out delay-150   hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 border rounded-2xl  p-6 w-fit m-2 text-center   flex flex-row items-center gap-4">
+        <div className="blockF blocks border-red-800 transition ease-in-out delay-150  cursor-pointer hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 border rounded-2xl  p-6 w-fit m-2 text-center   flex flex-row items-center gap-4">
             <HiOutlineBuildingOffice2 />
             <p className="text">Block-F</p>
         </div>
