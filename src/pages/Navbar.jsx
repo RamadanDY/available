@@ -4,8 +4,7 @@ import { HiOutlineHome } from "react-icons/hi";
 import { CgProfile } from "react-icons/cg";
 import { FaRegMessage } from "react-icons/fa6";
 import { IoIosLogOut } from "react-icons/io";
-// import { HiOutlineBuildingOffice2 } from "react-icons/hi2"; dont delete i will use this later 
-import '../App.css'
+ import '../App.css'
 import logo from '../assets/culogo.png'
 
 
